@@ -1,0 +1,110 @@
+commit 09e81e895ca3b2683694409ad474e7ecfafd88e3
+Merge: 1321820 fa29472
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Tue Oct 10 20:36:47 2023 -0500
+
+    Resolviendo conflicto en estaciones del año y fecha de inicio
+
+commit 132182083e3750424e923a56a7deea8ec0a471f9
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Tue Oct 10 19:53:50 2023 -0500
+
+    Agregando estaciones con fecha
+
+commit fa2947202cbf268278e69fabb4a7377da85f03c9
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Tue Oct 10 20:12:19 2023 -0500
+
+    Restaurando archivo index.js
+
+commit 2c5a83e09499d1b13c9952ad0ff75c3b7fa46091
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Tue Oct 10 19:53:50 2023 -0500
+
+    Agregando estaciones del año
+
+commit 4e3a30d791fc6a09e4ff103ab4efce782612bdde
+Merge: c04dbf2 d42f4d8
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Tue Oct 10 18:40:51 2023 -0500
+
+    Resolviendo conflicto merge main html en el documento index.html
+
+commit d42f4d8631ced4a674f13a545f4dad0068650866
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Tue Oct 10 18:31:53 2023 -0500
+
+    Agregando index.js al index.html
+
+commit c04dbf28c4483a09f2bfc9f8a1536597081769f6
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Tue Oct 10 18:27:31 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 8a3180b611f4db55b1c031fa3c13e42aff8b2f29
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Fri Oct 6 21:08:23 2023 -0500
+
+    Actualizando
+
+commit 66083031fcf16f9de8f434c2b3742a1c6b298d82
+Merge: 78290fe 0a342ff
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Fri Oct 6 20:06:01 2023 -0500
+
+    Merge branch 'javascript'
+
+commit 0a342ffc936240cfd06f2fdfbdbfb4c28669eb34
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Fri Oct 6 19:53:53 2023 -0500
+
+    Creando archivo javascript
+
+commit 78290fe2d0f3633e52d9a64fb38324aee22c1856
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Fri Oct 6 19:41:49 2023 -0500
+
+    Agregando css
+
+commit be0fe04d6138af35f37d1ede194512c7600736e3
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Fri Oct 6 19:29:23 2023 -0500
+
+    Creando archivo index.html
+
+commit 49ae1a7bc12c2881932cdd1d406967ec903f8f0c
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Fri Oct 6 18:13:37 2023 -0500
+
+    Ignorando archivos.exe
+
+commit 6429b3551fa02973f8bdb8549ac7b36a040c4fdd
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Wed Oct 4 20:30:54 2023 -0500
+
+    Cambiando nombre del archivo de la Licencia
+
+commit 1bcfac491cda29da3ceaf15268e6a848134d4c1a
+Author: Andrés Arias <147000731+devandreek@users.noreply.github.com>
+Date:   Wed Oct 4 20:27:45 2023 -0500
+
+    Creando licencia del repositorio
+
+commit b016994833189b3b4ad06f28d45413d46c4da81e
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Wed Oct 4 20:17:53 2023 -0500
+
+    Segundo commit
+
+commit c0ebdb894c58794905ecc17c8da05bbf8d4069cf
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Wed Oct 4 19:55:06 2023 -0500
+
+    Agregando contenid inicial al README
+
+commit d90e360a5946a11e96c2e784678bd639cb19f9c3
+Author: Andrés Arias <andres_arias.dev@outlook.com>
+Date:   Wed Oct 4 19:43:13 2023 -0500
+
+    First commit 😁

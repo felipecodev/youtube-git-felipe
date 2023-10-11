@@ -1,0 +1,24 @@
+*   09e81e8 Resolviendo conflicto en estaciones del año y fecha de inicio
+|\  
+| * fa29472 Restaurando archivo index.js
+| * 2c5a83e Agregando estaciones del año
+* | 1321820 Agregando estaciones con fecha
+|/  
+*   4e3a30d Resolviendo conflicto merge main html en el documento index.html
+|\  
+| * d42f4d8 Agregando index.js al index.html
+| * 8a3180b Actualizando
+* | c04dbf2 Agregando style.css al index.html
+|/  
+*   6608303 Merge branch 'javascript'
+|\  
+| * 0a342ff Creando archivo javascript
+* | 78290fe Agregando css
+* | be0fe04 Creando archivo index.html
+|/  
+* 49ae1a7 Ignorando archivos.exe
+* 6429b35 Cambiando nombre del archivo de la Licencia
+* 1bcfac4 Creando licencia del repositorio
+* b016994 Segundo commit
+* c0ebdb8 Agregando contenid inicial al README
+* d90e360 First commit 😁
