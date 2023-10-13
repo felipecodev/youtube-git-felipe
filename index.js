@@ -1,1 +1,1 @@
-console.log("Aprendiendo comandos de Git y GitHub");
+console.log("Aprendiendo Git y GitHub");
