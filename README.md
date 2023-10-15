@@ -2,6 +2,6 @@
 
 Hola, estamos aprendiendo Git&GitHub con JonMircha.
 
-Agregando más contenido al _README.md_
+Quieres dominar el uso de _Git_? Mira este [enlace](https://jonmircha.com/git).
 
-Este commit es para oficializar nueastra version **1.0.0**.
+![Flujo básico de Git](/git-flow.png)
