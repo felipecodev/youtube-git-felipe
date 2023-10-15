@@ -4,4 +4,4 @@ Hola, estamos aprendiendo Git&GitHub con JonMircha.
 
 Quieres dominar el uso de _Git_? Mira este [enlace](https://jonmircha.com/git).
 
-![Flujo de Git](/git-flow.png)
+![Flujo básico de Git](/git-flow.png)
